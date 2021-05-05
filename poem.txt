@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and the pony
 
 Purple
 Pink 
@@ -10,3 +10,4 @@ Indigo
 These are the colors
 
 unicorn
+pony
