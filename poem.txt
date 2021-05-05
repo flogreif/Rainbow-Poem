@@ -5,6 +5,7 @@ Pink
 Orange
 Green
 Yellow
+Indigo
 
 These are the colors
 
